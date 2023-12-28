@@ -56,3 +56,6 @@ set noswapfile
  
 " Turn syntax highlighting on
 syntax on
+
+" Show relative line numbers
+set relativenumber
