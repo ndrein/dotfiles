@@ -24,12 +24,10 @@ call vundle#begin()
     Plugin '907th/vim-auto-save'
     let g:auto_save = 1  " enable AutoSave on Vim startup
 
-    " Plugin 'airblade/vim-gitgutter'
+    Plugin 'airblade/vim-gitgutter'
 
     " Comment/uncomment with gcc / gc (with selection)
     Plugin 'tomtom/tcomment_vim'
-
-    Plugin 'github/copilot.vim'
 
 
 " All of your Plugins must be added before the following line
