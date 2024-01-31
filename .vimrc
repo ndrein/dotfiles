@@ -59,3 +59,4 @@ syntax on
 
 " Show relative line numbers
 set relativenumber
+set number
